@@ -1,0 +1,197 @@
+.Carré1{
+  width:150px;
+  height:150px;
+  background:#069;
+  margin: 2%;
+  display: block;
+}
+.Rond1{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond2{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond3{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond4{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+#ligne1{
+  display: flex;
+}
+.Rond5{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Carré2{
+  width:150px;
+  height:150px;
+  background:#069;
+  margin: 2%;
+}
+.Rond6{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond7{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond8{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+#ligne2{
+  display: flex;
+}
+.Rond9{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond10{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Losange{
+  width:150px;
+  height:150px;
+  background:#069;
+  margin: 2%;
+  transform : rotate(50deg);
+}
+.Rond11{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond12{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+#Ligne3{
+  display: flex;
+}
+.Rond13{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond14{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond15{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Carré3{
+  width:150px;
+  height:150px;
+  background:#069;
+  margin: 2%;
+}
+.Rond16{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+#Ligne4{
+  display: flex;
+}
+.Rond17{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond18{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond19{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Rond20{
+  width:150px;
+  height:150px;
+  background:#069;
+  border-radius: 50%;
+  margin: 2%;
+}
+.Carré4{
+  width:150px;
+  height:150px;
+  background:#069;
+  margin: 2%;
+}
+#Ligne5{
+  display: flex;
+}
+.clicked {
+  background-color: yellow;
+}
+.active{
+  background-color: purple;
+}
+#btn{
+  float: right;
+  display: flex;
+}
