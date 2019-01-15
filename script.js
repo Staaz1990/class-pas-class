@@ -153,3 +153,9 @@ $('.All').click(function() {
   	$(this).toggleClass("active");
   });
 });
+
+$('.DeselectAll').click(function() {
+  $('.Carré1, .Carré2, .Carré3, .Carré4, .rond, .Losange').each(function() {
+    $(this).toggleClass("active");
+  });
+});
